@@ -6,3 +6,5 @@ int e = 50;
 int z1 = 500;
 int z2 = 1000;
 int z3 = 5000;
+int z4 = 7000;
+int z5 = 8000;
