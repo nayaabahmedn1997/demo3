@@ -5,3 +5,4 @@ int d = 40;
 int e = 50;
 int z1 = 500;
 int z2 = 1000;
+int z3 = 5000;
